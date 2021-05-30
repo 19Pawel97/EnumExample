@@ -1,2 +1,7 @@
-package enumcoffeeapp;public class PochodzenieKawy {
+package enumcoffeeapp;
+
+public enum PochodzenieKawy {
+    COLUMBIA,
+    BRASIL,
+    INDIE
 }
